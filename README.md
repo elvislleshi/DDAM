@@ -1,4 +1,4 @@
-README for Accident Analysis and Prediction Project
+#README for Accident Analysis and Prediction Project
 Project Overview
 This project explores the US-Accidents Dataset, a comprehensive collection of traffic accident data across 49 states in the United States from February 2016 to March 2023. The dataset contains approximately 7.7 million records, with 46 attributes describing various aspects of accidents, including location, weather conditions, traffic features, and more.
 
